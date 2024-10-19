@@ -9,7 +9,7 @@ dependencies: Spring web
 source: https://www.youtube.com/watch?v=vpf4LB54rVw
 
 ##install:
-
+download zip and unpack
 in eclipse:  
 file  
 import  
