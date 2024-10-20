@@ -1,4 +1,4 @@
-# projetC2backend_simple_springboot_api_course
+# springboot_tuto_api_basics
 
 eclipse with springboot initializer
 
